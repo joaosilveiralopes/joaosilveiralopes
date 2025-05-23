@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o João Lopes 👋</h1>
+<h1 align="center">Oi! Eu sou o João Lopes 👊🏻</h1>
 
 Me chamo **João Lopes**, tenho 23 anos e sou natural de **São Paulo, Brasil** 🇧🇷.  
 Atualmente, estou cursando **Ciência da Computação** e buscando oportunidades para aprender e crescer como desenvolvedor **Back-end**.  
