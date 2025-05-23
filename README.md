@@ -1,7 +1,7 @@
-<h1 align="center">Sou João Lopes 👊🏻</h1>
+<h1 align="center">Sou João Lopes 👊🏻 </h1>
 
 Me chamo **João Lopes**, tenho 23 anos e sou natural de **São Paulo, Brasil** 🇧🇷.  
-Atualmente, estou cursando **Ciência da Computação** e buscando oportunidades para aprender e crescer como desenvolvedor **Back-end**.  
+Estou cursando o 6° semestre de **Ciência da Computação** e busco oportunidades para aprender e crescer como desenvolvedor **Back-end**.  
 Sou apaixonado por tecnologia, lógica de programação e estou sempre em busca de novos desafios. 
 
 ---
