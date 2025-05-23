@@ -8,9 +8,9 @@ Sou apaixonado por tecnologia, lógica de programação e estou sempre em busca 
 
 ### 🚀 Tecnologias e Ferramentas
 
+- 👩🏻‍💻 Estudando Ciências da Computação
 - 🐍 Estudando Python
 - 💻 Estudando Back-end
-- 👩🏻‍💻 Estudando ciências da computação
 
 ---
 
